@@ -1,2 +1,2 @@
 # python_bdd
-Python3 BDD using behave
+Python3 BDD with behave
